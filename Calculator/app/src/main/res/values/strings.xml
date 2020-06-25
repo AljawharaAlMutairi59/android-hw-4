@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aljawhara\'s Calculator</string>
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="quizes_15">Quizes %15</string>
+    <string name="homework_25">Homework %25</string>
+    <string name="mid_terms_30">Mid Terms %30</string>
+    <string name="final_30">Final %30</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="restart">Restart</string>
+    <string name="the_grade">The Grade</string>
+</resources>
